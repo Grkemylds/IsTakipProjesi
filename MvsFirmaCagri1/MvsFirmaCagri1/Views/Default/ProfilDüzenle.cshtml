@@ -1,0 +1,41 @@
+﻿@model MvsFirmaCagri1.Models.Entity.TblFirmalar
+
+@{
+    ViewBag.Title = "ProfilDüzenle";
+    Layout = "~/Views/Shared/FirmaLayout.cshtml";
+}
+
+<h2>Firma Profil Düzenleme Sayfası</h2>
+<br />
+@using (Html.BeginForm("ProfilGuncelle", "Default", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.ID)
+    @Html.Label("Firma Adı")
+    @Html.TextBoxFor(x => x.Ad, new { @class = "form-control" })
+    <br />
+    @Html.HiddenFor(x => x.ID)
+    @Html.Label("Yetkili")
+    @Html.TextBoxFor(x => x.Yetkili, new { @class = "form-control" })
+    <br />
+    @Html.HiddenFor(x => x.ID)
+    @Html.Label("Şifre")
+    @Html.PasswordFor(x => x.Şifre, new { @class = "form-control" })
+    <br />
+    @Html.HiddenFor(x => x.ID)
+    @Html.Label("Sektör")
+    @Html.TextBoxFor(x => x.Sektör, new { @class = "form-control" })
+    <br />
+    @Html.HiddenFor(x => x.ID)
+    @Html.Label("il")
+    @Html.TextBoxFor(x => x.il, new { @class = "form-control" })
+    <br />
+    @Html.HiddenFor(x => x.ID)
+    @Html.Label("ilçe")
+    @Html.TextBoxFor(x => x.ilçe, new { @class = "form-control" })
+    <br />
+    @Html.Label("Adres")
+    @Html.TextAreaFor(x => x.Adres, 10, 4, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-primary"> Değişiklikleri Kaydet</button>
+}
+

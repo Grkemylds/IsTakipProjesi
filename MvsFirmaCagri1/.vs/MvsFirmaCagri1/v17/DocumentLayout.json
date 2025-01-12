@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|c:\\users\\gorke\\source\\repos\\mvsfirmacagri1\\mvsfirmacagri1\\views\\default\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|solutionrelative:mvsfirmacagri1\\views\\default\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|c:\\users\\gorke\\source\\repos\\mvsfirmacagri1\\mvsfirmacagri1\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|solutionrelative:mvsfirmacagri1\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|c:\\users\\gorke\\source\\repos\\mvsfirmacagri1\\mvsfirmacagri1\\views\\default\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|solutionrelative:mvsfirmacagri1\\views\\default\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|c:\\users\\gorke\\source\\repos\\mvsfirmacagri1\\mvsfirmacagri1\\views\\default\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|solutionrelative:mvsfirmacagri1\\views\\default\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|c:\\users\\gorke\\source\\repos\\mvsfirmacagri1\\mvsfirmacagri1\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|solutionrelative:mvsfirmacagri1\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|c:\\users\\gorke\\source\\repos\\mvsfirmacagri1\\mvsfirmacagri1\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|solutionrelative:mvsfirmacagri1\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|c:\\users\\gorke\\source\\repos\\mvsfirmacagri1\\mvsfirmacagri1\\views\\shared\\firmalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{360C26F1-694C-430A-A34B-E231B6DA8297}|MvsFirmaCagri1\\MvsFirmaCagri1.csproj|solutionrelative:mvsfirmacagri1\\views\\shared\\firmalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MvsFirmaCagri1\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MvsFirmaCagri1\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:51:04.768Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaSayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Default\\AnaSayfa.cshtml",
+              "RelativeDocumentMoniker": "MvsFirmaCagri1\\Views\\Default\\AnaSayfa.cshtml",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Default\\AnaSayfa.cshtml",
+              "RelativeToolTip": "MvsFirmaCagri1\\Views\\Default\\AnaSayfa.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwGUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T13:09:07.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Partial3.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Default\\Partial3.cshtml",
+              "RelativeDocumentMoniker": "MvsFirmaCagri1\\Views\\Default\\Partial3.cshtml",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Default\\Partial3.cshtml",
+              "RelativeToolTip": "MvsFirmaCagri1\\Views\\Default\\Partial3.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T20:34:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partial2.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Default\\Partial2.cshtml",
+              "RelativeDocumentMoniker": "MvsFirmaCagri1\\Views\\Default\\Partial2.cshtml",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Default\\Partial2.cshtml",
+              "RelativeToolTip": "MvsFirmaCagri1\\Views\\Default\\Partial2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T18:37:10.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Models\\Entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "MvsFirmaCagri1\\Models\\Entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MvsFirmaCagri1\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-22T15:54:04.148Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial1.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Default\\Partial1.cshtml",
+              "RelativeDocumentMoniker": "MvsFirmaCagri1\\Views\\Default\\Partial1.cshtml",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Default\\Partial1.cshtml",
+              "RelativeToolTip": "MvsFirmaCagri1\\Views\\Default\\Partial1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T17:34:18.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirmaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Shared\\FirmaLayout.cshtml",
+              "RelativeDocumentMoniker": "MvsFirmaCagri1\\Views\\Shared\\FirmaLayout.cshtml",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\MvsFirmaCagri1\\MvsFirmaCagri1\\Views\\Shared\\FirmaLayout.cshtml",
+              "RelativeToolTip": "MvsFirmaCagri1\\Views\\Shared\\FirmaLayout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T15:58:09.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
